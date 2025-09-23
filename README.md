@@ -11,7 +11,7 @@
 ## Technical Skills
 **Languages:** Python, SQL, Julia, R  
 **ML/Stats:** PyMC, PyTorch, Scikit-learn, Statistical Inference  
-**Data Engineering:** PySpark, ETL Pipelines, BigQuery, MS SQL Server  
+**Data Engineering:** PySpark,BigQuery, MS SQL Server  
 **Cloud & Viz:** Google Cloud Platform, Tableau
 
 ## Connect With Me
