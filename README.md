@@ -2,7 +2,7 @@
 
 **Business Analytics Graduate Student @ Schulich School of Business**
 
-## Pursuing data science opportunities in **finance**, **healthcare**, **environmental analytics**, **risk management**, and **sports analytics**
+### Pursuing data science opportunities in **finance**, **healthcare**, **environmental analytics**, **risk management**, and **sports analytics**
 
 ## Current Work
 - **Data Science Intern @ Dotslive** - Building AI-agent powered BI platform
