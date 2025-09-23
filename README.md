@@ -1,3 +1,5 @@
+<div style="font-family: Georgia, serif;">
+
 # Hi, I'm Lucas
 
 **Business Analytics Graduate Student @ Schulich School of Business**
@@ -16,3 +18,5 @@
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/lucas-b-619178204)
+
+</div>
