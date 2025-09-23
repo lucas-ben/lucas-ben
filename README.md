@@ -1,10 +1,8 @@
-<div style="font-family: Georgia, serif;">
-
 # Hi, I'm Lucas
 
 **Business Analytics Graduate Student @ Schulich School of Business**
 
-### Pursuing data science opportunities in **finance**, **healthcare**, **environmental analytics**, **risk management**, and **sports analytics**
+### Pursuing data science opportunities in finance, healthcare, environmental analytics, risk management, and sports analytics
 
 ## Current Work
 - **Data Science Intern @ Dotslive** - Building AI-agent powered BI platform
@@ -18,5 +16,3 @@
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/lucas-b-619178204)
-
-</div>
