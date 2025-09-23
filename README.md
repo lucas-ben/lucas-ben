@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lucas
 
-<!--
-**lucas-ben/lucas-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analytics Graduate Student @ Schulich School of Business**
 
-Here are some ideas to get you started:
+## Pursuing data science opportunities in **finance**, **healthcare**, **environmental analytics**, **risk management**, and **sports analytics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- **Data Science Intern @ Dotslive** - Building AI-agent powered BI platform
+- **Graduate Research Assistant @ Schulich** - Developing sensitivity analysis package in Julia, building core functions for Sobol analysis, Shapley values, and automated data visualization
+
+## Technical Skills
+**Languages:** Python, SQL, Julia, R  
+**ML/Stats:** PyMC, PyTorch, Scikit-learn, Statistical Inference  
+**Data Engineering:** PySpark, ETL Pipelines, BigQuery, MS SQL Server  
+**Cloud & Viz:** Google Cloud Platform, Tableau
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/lucas-b-619178204)
